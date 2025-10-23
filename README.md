@@ -1,7 +1,6 @@
 # UTS_PWEB_242410103065
 
 🏠 KosKita
-
 KosKita adalah website sederhana berbasis Laravel yang dibuat untuk memenuhi tugas UTS mata kuliah Pemrograman Web.
 Website ini dirancang untuk membantu penyewa kos dalam melihat dan memilih kamar kos yang tersedia dengan tampilan yang rapi dan informatif.
 
